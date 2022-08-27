@@ -57,7 +57,7 @@ dependencies {
 }
 
 /**
- *
+ * Kotlin Compiler options
  * https://kotlinlang.org/docs/gradle.html#compiler-options
  */
 tasks.withType<KotlinCompile> {
