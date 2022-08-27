@@ -58,6 +58,7 @@ dependencies {
 
 /**
  * Kotlin Compiler options
+ * https://spring.pleiades.io/spring-boot/docs/current/reference/html/features.html#features.kotlin.null-safety
  * https://kotlinlang.org/docs/gradle.html#compiler-options
  */
 tasks.withType<KotlinCompile> {
