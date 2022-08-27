@@ -68,8 +68,8 @@ tasks.withType<KotlinCompile> {
 }
 
 /**
- * useJUnitPlatform()
- * Specifies that JUnit Platform should be used to discover and execute the tests.
+ * Using Gradle Kotlin DSL with JUnit
+ * useJUnitPlatform(): Specifies that JUnit Platform should be used to discover and execute the tests.
  */
 tasks.withType<Test> {
 	useJUnitPlatform()
