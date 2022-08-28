@@ -1,4 +1,4 @@
-package example.blog
+package com.example.blog
 
 
 import org.assertj.core.api.Assertions.*
